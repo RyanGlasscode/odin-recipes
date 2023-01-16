@@ -1,0 +1,43 @@
+/* styles.css */
+
+p{
+color: black;
+background-color: antiquewhite;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+color: coral;
+background-color: black;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+font-style: italic;
+font-weight: 200;
+color: crimson;
+}
+
+h3{
+    color: brown;
+    background-color: aquamarine;
+}
+
+li{
+    font-weight: bold;
+}
+
+ol{
+    color: blueviolet;
+}
+
+ul{
+    color: blueviolet;
+}
+
+a{
+font-weight: bolder;
+font-size: xx-large;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
